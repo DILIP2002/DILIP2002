@@ -1,4 +1,13 @@
-### Hi there i am dilip pushadapu 👋
+<p align="center"><img src="https://user-images.githubusercontent.com/41234408/101987297-4473fb00-3cb9-11eb-9675-289ada4eef7e.gif" alt="Animated footer bars" width="100%"/></p>
+<h2><b><i>Hello guys I'm Dilip 👋 </i></b></h2>
+<fieldset>
+  I am a Studying at [Amrita ,kerala](https://www.amrita.edu/campus/amritapuri) <br>
+   📫 How to reach me:[Gmail](dilippushadapu@gmail.com)<br>
+  
+                                                                                                  
+
+
+
 
 <!--
 **DILIP2002/DILIP2002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +23,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<p align="center"><img src="https://user-images.githubusercontent.com/41234408/101987287-302ffe00-3cb9-11eb-8510-3d08f56bea27.gif" alt="Animated footer bars" width="100%"/></p>
