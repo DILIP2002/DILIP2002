@@ -2,8 +2,8 @@
 <h2><b><i>Hello guys I'm Dilip 👋 </i></b></h2>
 
   I am a Studying at [Amrita ,kerala](https://www.amrita.edu/campus/amritapuri) <br>
-   📫 How to reach me:[Gmail](dilippushadapu@gmail.com)<br>
-  
+  📫 How to reach me:[Gmail](dilippushadapu@gmail.com)<br>
+   <li>Pronouns: He/His/Him </li>
                                                                                                   
 
 
