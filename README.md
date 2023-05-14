@@ -1,5 +1,5 @@
 <p align="center"><img src="https://user-images.githubusercontent.com/41234408/101987297-4473fb00-3cb9-11eb-9675-289ada4eef7e.gif" alt="Animated footer bars" width="100%"/></p>
-<h2><b><i>Hai👋 I'm Dilip  </i></b></h2>
+<h2><b><i>Hai👋 I'm Dilip Pushadapu </i></b></h2>
 
   I am a Studying at [Amrita ,kerala](https://www.amrita.edu/campus/amritapuri) <br>
   📫 How to reach me:[Gmail](dilippushadapu@gmail.com)<br>
